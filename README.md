@@ -23,7 +23,7 @@ If you need more help you can read a more detailed guide [here](https://github.c
 
 ## Issues
 
-If you happen to find an issue and you believe it is to do with OptiFabric and not Optifine or a mod please open an issue [here](https://github.com/modmuss50/OptiFabric/issues) 
+If you happen to find an issue and you believe it is to do with OptiFabric and not Optifine or a mod please open an issue [here](https://github.com/Chocohead/OptiFabric/issues) 
 
 
 ## For Mod Devs
