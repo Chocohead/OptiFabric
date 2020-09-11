@@ -8,12 +8,11 @@ __Note:__ This project does not contain Optifine, you must download it separatel
 
 ## Installing
 
-After installing fabric for 1.16.2, you will need to place the OptiFabric mod jar as well as the optifine installer in the mods folder.
+After installing fabric for 1.16.3, you will need to place the OptiFabric mod jar as well as the optifine installer in the mods folder.
 
 Fabric Loader should be the latest version from the [Fabric Website](https://fabricmc.net/use/)
 
 If you need more help you can read a more detailed guide [here](https://github.com/modmuss50/OptiFabric/wiki/Install-Tutorial)
-
 
 ## Links
 
