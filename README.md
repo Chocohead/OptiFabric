@@ -37,7 +37,7 @@ repositories {
 
 dependencies {
     // replace OptiFabric:<version> with latest version on https://www.curseforge.com/minecraft/mc-mods/optifabric/files that fits your MC version
-    modImplementation 'com.github.modmuss50:OptiFabric:<version>'
+    modImplementation 'com.github.Chocohead:OptiFabric:<version>'
 } 
 ```
 
