@@ -1,0 +1,9 @@
+{
+	"parent": "optifabric.mixins.json",
+	"package": "me.modmuss50.optifabric.compat.architectury2.mixin",
+	"plugin": "me.modmuss50.optifabric.compat.InterceptingMixinPlugin",
+	"mixins": [
+		"GameRendererMixin",
+        "SpriteAtlasTextureMixin"
+	]
+}

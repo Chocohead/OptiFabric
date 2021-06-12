@@ -246,7 +246,9 @@ public class OptifabricSetup implements Runnable {
 			Mixins.addConfiguration("optifabric.compat.images.mixins.json");
 		}
 
-		if (isPresent("architectury", ">=1.0.20")) {
+		if (isPresent("architectury", ">=2.0.0")) {
+			Mixins.addConfiguration("optifabric.compat.architectury2.mixins.json");
+		} else if (isPresent("architectury", ">=1.0.20")) {
 			Mixins.addConfiguration("optifabric.compat.architectury-B.mixins.json");
 		} else if (isPresent("architectury", ">=1.0.4")) {
 			Mixins.addConfiguration("optifabric.compat.architectury-A.mixins.json");
